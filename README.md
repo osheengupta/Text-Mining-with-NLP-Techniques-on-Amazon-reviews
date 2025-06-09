@@ -53,6 +53,23 @@ This project applies natural language processing (NLP) and text analytics techni
 - **Common Words in Negative Reviews:** order, chew, box  
 
 ---
+## Screenshots
+
+### Key Insights and Visualizations:
+
+1. **Sentiment Distribution**:
+   ![Sentiment Distribution](./img/SD.png)
+   
+
+2. **Topics in Positive Sentiment Reviews**:
+   ![Topics](./img/TPS.png)
+   
+
+3. **Topics in Positive Sentiment Reviews**:
+   ![Topics](./img/TNS.png)
+  
+  
+---
 
 ## Recommendations
 
